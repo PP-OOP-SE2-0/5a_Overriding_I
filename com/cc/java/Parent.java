@@ -6,4 +6,12 @@ public class Parent {
             return "Hello from child";
         }
     
+
+public String sayHello(String str) {
+    return str + "parent!";
+}
+
+
+
+
 }
