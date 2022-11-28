@@ -7,7 +7,7 @@ public class App {
     Child child = new Child();
     output(child.sayHello());
     output(child.sayHello( "Hello from "));
-    output(child.sayHello("Hello from grandparent"));
+    output(child.sayHello("Hello from grand"));
 
     }
 
